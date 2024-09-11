@@ -1,0 +1,2 @@
+- name: VDF Patch Validator            
+  uses: szapp/patch-validator@v1.0.0
