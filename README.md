@@ -10,7 +10,6 @@
 
 Expansion by Romanez78.
 
-This is a modular modification (a.k.a. patch or add-on) that can be installed and uninstalled at any time and is virtually compatible with any modification.
 It supports <kbd>Gothic 2 Night of the Raven</kbd> only.
 
 <sup>Generated from [szapp/patch-template](https://github.com/szapp/patch-template).</sup>
