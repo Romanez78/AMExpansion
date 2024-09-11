@@ -8,10 +8,10 @@
 <!-- [![Spine](https://raw.githubusercontent.com/szapp/patch-template/main/.github/actions/initialization/badges/spine.svg)](https://clockwork-origins.com/spine) -->
 <!-- [![Steam workshop](https://img.shields.io/badge/steam-workshop-2a3f5a?logo=steam&labelColor=1b2838)](https://steamcommunity.com/sharedfiles/filedetails/?id=XXXXXXXXXX) -->
 
-This patch ensures that Diego doesn't bother you at the beginning of the game. It saves time, when you test something. :)
+Expansion by Romanez78.
 
 This is a modular modification (a.k.a. patch or add-on) that can be installed and uninstalled at any time and is virtually compatible with any modification.
-It supports <kbd>Gothic 1</kbd> only.
+It supports <kbd>Gothic 2 Night of the Raven</kbd> only.
 
 <sup>Generated from [szapp/patch-template](https://github.com/szapp/patch-template).</sup>
 
