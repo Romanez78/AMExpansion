@@ -1,7 +1,7 @@
 [BEGINVDF]
-Comment=This patch ensures that Diego doesn't bother you at the beginning of the game. It saves time, when you test something. :)
+Comment=Expansion by Romanez78.
 BaseDir=.\
-VDFName=.\SilentDiego.vdf
+VDFName=.\AMExpansion.vdf
 
 [FILES]
 ; Modular resources
@@ -24,7 +24,7 @@ _work\Data\Textures\_compiled\*.FNT
 _work\Data\Worlds\*.ZEN
 
 ; Ninja resources
-Ninja\SilentDiego\* -r
+Ninja\AMExpansion\* -r
 
 ; License and README
 LICENSE
